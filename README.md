@@ -25,5 +25,5 @@ cd WCTOOL
 ## or use the shortcut command to start
 ##on the WCTOOL home page using [8] 创建快捷指令
 ##custom input text English number
-### tooltip has been successfully created
+###tooltip has been successfully created
 ##back termux.akp re-enter termux.apk Enter the custom input text English number just entered
