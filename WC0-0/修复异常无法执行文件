@@ -1,0 +1,12 @@
+#!/bin/bash
+
+RED='\033[0;31m'
+GREEN='\033[0;92m'
+NC='\033[0m'
+
+rm -f /data/user/0/com.termux/files/usr/tmp/py49437
+if [ $? -eq 0 ]; then
+    echo -e "${GREEN}${NC}"
+else
+    echo -e "${RED}运行失败！${NC}"
+fi

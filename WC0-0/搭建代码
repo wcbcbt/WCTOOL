@@ -1,0 +1,27 @@
+
+termux-setup-storage
+
+pkg update
+
+pkg update && pkg upgrade
+
+pip install requests
+
+pkg install libdw
+
+pkg install qemu-system-i386 -y
+
+pkg install qemu-user-i386 -y
+
+pkg install x11-repo -y
+
+pkg install git
+
+pkg install toilet figlet pv
+
+pkg install mplayer
+
+pkg install python
+
+chmod +x WC1-10/WC
+./WC1-10/WC
